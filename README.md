@@ -153,13 +153,6 @@ Framework ini dapat digunakan kembali untuk pengujian halaman website lainnya.
 
 ---
 
-## 👩‍💻 Author
-
-Nama : **Dela Amelia Sitorus**  
-Program Studi : **Informatika**  
-
----
-
 ## 🔗 Repository GitHub
 
 https://github.com/DelaAmeliaSitorus/Project21
